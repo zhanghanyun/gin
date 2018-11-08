@@ -117,7 +117,7 @@ $ curl https://raw.githubusercontent.com/gin-gonic/gin/master/examples/basic/mai
 ```sh
 $ go run main.go
 ```
-
+NOTE:If you use Go 1.11,remember to use go mod
 ## Prerequisite
 
 Now Gin requires Go 1.6 or later and Go 1.7 will be required soon.
